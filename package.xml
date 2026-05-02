@@ -3,7 +3,7 @@
 <package format="3">
   <name>headlight</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>An open-source autonomy stack using ROS2/Python.</description>
   <maintainer email="etprous@gmail.com">Abduhu S. Chauhdury</maintainer>
   <license>MIT</license>
 

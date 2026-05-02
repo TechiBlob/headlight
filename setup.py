@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='Abduhu S. Chauhdury',
     maintainer_email='etprous@gmail.com',
-    description='TODO: Package description',
+    description='An open-source autonomy stack using ROS2/Python.',
     license='MIT',
     extras_require={
         'test': [
